@@ -1,2 +1,3 @@
-# text-summarization-using-python
-This Text summarization model is built using a sequence-to-sequence model that involves generating a concise and coherent summary of a given piece of text. This approach utilizes an encoder-decoder architecture, commonly built with recurrent neural network variants like LSTMs (Long Short-Term Memory). 
+# License-plate-detector
+This License plate recognition system automatically detects the license plate from the vehicle picture and gives information regarding the details of the vehicle. This project is a beginner-level Python project and one can easily learn about basic libraries used in Python.
+This system is developed using Python and OpenCV is the main library used.
